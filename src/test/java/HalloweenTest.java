@@ -7,6 +7,7 @@ public class HalloweenTest {
     //there will be no treat and trick this year
 // stay home and safe and wear mask outside
     //line 1
+    //line 2
 
 
 }
